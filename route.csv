@@ -1,0 +1,207 @@
+route_no,state_name,route_name,route_ref
+1,RSRTC,Udaipur to Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur
+2,RSRTC,Jodhpur to Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer
+3,RSRTC,Beawar (Rajasthan) to Jaipur (Rajasthan),https://www.redbus.in/bus-tickets/beawer-to-jaipur
+4,RSRTC,Sikar to Jaipur (Rajasthan),https://www.redbus.in/bus-tickets/sikar-to-jaipur
+5,RSRTC,Jaipur (Rajasthan) to Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur
+6,RSRTC,Aligarh (uttar pradesh) to Jaipur (Rajasthan),https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-jaipur
+7,RSRTC,Jaipur (Rajasthan) to Aligarh (uttar pradesh),https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh
+8,RSRTC,Jodhpur to Beawar (Rajasthan),https://www.redbus.in/bus-tickets/jodhpur-to-beawer
+9,RSRTC,Jaipur (Rajasthan) to Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani
+10,RSRTC,Kishangarh to Jaipur (Rajasthan),https://www.redbus.in/bus-tickets/kishangarh-to-jaipur
+11,RSRTC,Udaipur to Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur
+12,RSRTC,Jodhpur to Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer
+13,RSRTC,Beawar (Rajasthan) to Jaipur (Rajasthan),https://www.redbus.in/bus-tickets/beawer-to-jaipur
+14,RSRTC,Sikar to Jaipur (Rajasthan),https://www.redbus.in/bus-tickets/sikar-to-jaipur
+15,RSRTC,Jaipur (Rajasthan) to Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur
+16,RSRTC,Aligarh (uttar pradesh) to Jaipur (Rajasthan),https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-jaipur
+17,RSRTC,Jaipur (Rajasthan) to Aligarh (uttar pradesh),https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh
+18,RSRTC,Jodhpur to Beawar (Rajasthan),https://www.redbus.in/bus-tickets/jodhpur-to-beawer
+19,RSRTC,Jaipur (Rajasthan) to Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani
+20,RSRTC,Kishangarh to Jaipur (Rajasthan),https://www.redbus.in/bus-tickets/kishangarh-to-jaipur
+21,PEPSU (Punjab),Delhi to Patiala,https://www.redbus.in/bus-tickets/delhi-to-patiala
+22,PEPSU (Punjab),Patiala to Delhi,https://www.redbus.in/bus-tickets/patiala-to-delhi
+23,PEPSU (Punjab),Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana
+24,PEPSU (Punjab),Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi
+25,PEPSU (Punjab),Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi
+26,PEPSU (Punjab),Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar
+27,PEPSU (Punjab),Delhi Airport to Patiala,https://www.redbus.in/bus-tickets/delhi-airport-to-patiala
+28,PEPSU (Punjab),Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport
+29,PEPSU (Punjab),Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana
+30,PEPSU (Punjab),Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport
+31,PEPSU (Punjab),Delhi to Patiala,https://www.redbus.in/bus-tickets/delhi-to-patiala
+32,PEPSU (Punjab),Patiala to Delhi,https://www.redbus.in/bus-tickets/patiala-to-delhi
+33,PEPSU (Punjab),Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana
+34,PEPSU (Punjab),Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi
+35,PEPSU (Punjab),Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi
+36,PEPSU (Punjab),Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar
+37,PEPSU (Punjab),Delhi Airport to Patiala,https://www.redbus.in/bus-tickets/delhi-airport-to-patiala
+38,PEPSU (Punjab),Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport
+39,PEPSU (Punjab),Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana
+40,PEPSU (Punjab),Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport
+41,PEPSU (Punjab),Delhi to Patiala,https://www.redbus.in/bus-tickets/delhi-to-patiala
+42,PEPSU (Punjab),Patiala to Delhi,https://www.redbus.in/bus-tickets/patiala-to-delhi
+43,PEPSU (Punjab),Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana
+44,PEPSU (Punjab),Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi
+46,PEPSU (Punjab),Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar
+47,PEPSU (Punjab),Delhi Airport to Patiala,https://www.redbus.in/bus-tickets/delhi-airport-to-patiala
+48,PEPSU (Punjab),Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport
+49,PEPSU (Punjab),Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana
+50,PEPSU (Punjab),Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport
+51,PEPSU (Punjab),Delhi to Patiala,https://www.redbus.in/bus-tickets/delhi-to-patiala
+52,PEPSU (Punjab),Patiala to Delhi,https://www.redbus.in/bus-tickets/patiala-to-delhi
+53,PEPSU (Punjab),Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana
+54,PEPSU (Punjab),Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi
+55,PEPSU (Punjab),Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi
+56,PEPSU (Punjab),Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar
+57,PEPSU (Punjab),Delhi Airport to Patiala,https://www.redbus.in/bus-tickets/delhi-airport-to-patiala
+58,PEPSU (Punjab),Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport
+59,PEPSU (Punjab),Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana
+60,PEPSU (Punjab),Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport
+61,UPSRTC,Delhi to Bareilly,https://www.redbus.in/bus-tickets/delhi-to-bareilly
+62,UPSRTC,Bareilly to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi
+63,UPSRTC,Aligarh (uttar pradesh) to Delhi,https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-delhi
+64,UPSRTC,Delhi to Aligarh (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-aligarh-uttar-pradesh
+65,UPSRTC,Lucknow to Allahabad,https://www.redbus.in/bus-tickets/lucknow-to-allahabad
+66,UPSRTC,Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi
+67,UPSRTC,Delhi to Farrukhabad (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-farrukhabad-up
+68,UPSRTC,Farrukhabad (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/farrukhabad-up-to-delhi
+69,UPSRTC,Badaun to Delhi,https://www.redbus.in/bus-tickets/badaun-to-delhi
+70,UPSRTC,Allahabad to Lucknow,https://www.redbus.in/bus-tickets/allahabad-to-lucknow
+71,UPSRTC,Delhi to Bareilly,https://www.redbus.in/bus-tickets/delhi-to-bareilly
+72,UPSRTC,Bareilly to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi
+73,UPSRTC,Aligarh (uttar pradesh) to Delhi,https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-delhi
+74,UPSRTC,Delhi to Aligarh (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-aligarh-uttar-pradesh
+75,UPSRTC,Lucknow to Allahabad,https://www.redbus.in/bus-tickets/lucknow-to-allahabad
+76,UPSRTC,Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi
+77,UPSRTC,Delhi to Farrukhabad (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-farrukhabad-up
+78,UPSRTC,Farrukhabad (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/farrukhabad-up-to-delhi
+79,UPSRTC,Badaun to Delhi,https://www.redbus.in/bus-tickets/badaun-to-delhi
+80,UPSRTC,Allahabad to Lucknow,https://www.redbus.in/bus-tickets/allahabad-to-lucknow
+81,Chandigarh Transport Undertaking (CTU),Yamuna Nagar to Chandigarh,https://www.redbus.in/bus-tickets/yamuna-nagar-to-chandigarh
+82,Chandigarh Transport Undertaking (CTU),Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi
+83,Chandigarh Transport Undertaking (CTU),Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+84,Chandigarh Transport Undertaking (CTU),Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh
+85,Chandigarh Transport Undertaking (CTU),Chandigarh to Yamuna Nagar,https://www.redbus.in/bus-tickets/chandigarh-to-yamuna-nagar
+86,Chandigarh Transport Undertaking (CTU),Chandigarh to Ludhiana,https://www.redbus.in/bus-tickets/chandigarh-to-ludhiana
+87,Chandigarh Transport Undertaking (CTU),Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+90,Chandigarh Transport Undertaking (CTU),Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot
+91,Chandigarh Transport Undertaking (CTU),Yamuna Nagar to Chandigarh,https://www.redbus.in/bus-tickets/yamuna-nagar-to-chandigarh
+92,Chandigarh Transport Undertaking (CTU),Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi
+93,Chandigarh Transport Undertaking (CTU),Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+94,Chandigarh Transport Undertaking (CTU),Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh
+95,Chandigarh Transport Undertaking (CTU),Chandigarh to Yamuna Nagar,https://www.redbus.in/bus-tickets/chandigarh-to-yamuna-nagar
+96,Chandigarh Transport Undertaking (CTU),Chandigarh to Ludhiana,https://www.redbus.in/bus-tickets/chandigarh-to-ludhiana
+97,Chandigarh Transport Undertaking (CTU),Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+100,Chandigarh Transport Undertaking (CTU),Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot
+103,HRTC,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+104,HRTC,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi
+105,HRTC,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+106,HRTC,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi
+108,HRTC,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+109,HRTC,Chandigarh to Dharamshala (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-dharamshala
+110,HRTC,Delhi to Chamba (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh
+111,HRTC,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+113,HRTC,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+114,HRTC,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi
+115,HRTC,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+116,HRTC,Hamirpur (Himachal Pradesh) to Delhi,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-delhi
+118,HRTC,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+119,HRTC,Chandigarh to Dharamshala (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-dharamshala
+120,HRTC,Delhi to Chamba (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-chamba-himachal-pradesh
+121,RSRTC,Udaipur to Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur
+122,RSRTC,Jodhpur to Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer
+123,RSRTC,Beawar (Rajasthan) to Jaipur (Rajasthan),https://www.redbus.in/bus-tickets/beawer-to-jaipur
+124,RSRTC,Sikar to Jaipur (Rajasthan),https://www.redbus.in/bus-tickets/sikar-to-jaipur
+125,RSRTC,Jaipur (Rajasthan) to Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur
+126,RSRTC,Aligarh (uttar pradesh) to Jaipur (Rajasthan),https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-jaipur
+127,RSRTC,Jaipur (Rajasthan) to Aligarh (uttar pradesh),https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh
+128,RSRTC,Jodhpur to Beawar (Rajasthan),https://www.redbus.in/bus-tickets/jodhpur-to-beawer
+129,RSRTC,Jaipur (Rajasthan) to Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani
+130,RSRTC,Kishangarh to Jaipur (Rajasthan),https://www.redbus.in/bus-tickets/kishangarh-to-jaipur
+131,RSRTC,Udaipur to Jodhpur,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur
+132,RSRTC,Jodhpur to Ajmer,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer
+133,RSRTC,Beawar (Rajasthan) to Jaipur (Rajasthan),https://www.redbus.in/bus-tickets/beawer-to-jaipur
+134,RSRTC,Sikar to Jaipur (Rajasthan),https://www.redbus.in/bus-tickets/sikar-to-jaipur
+135,RSRTC,Jaipur (Rajasthan) to Jodhpur,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur
+136,RSRTC,Aligarh (uttar pradesh) to Jaipur (Rajasthan),https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-jaipur
+137,RSRTC,Jaipur (Rajasthan) to Aligarh (uttar pradesh),https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh
+138,RSRTC,Jodhpur to Beawar (Rajasthan),https://www.redbus.in/bus-tickets/jodhpur-to-beawer
+139,RSRTC,Jaipur (Rajasthan) to Pilani,https://www.redbus.in/bus-tickets/jaipur-to-pilani
+140,RSRTC,Kishangarh to Jaipur (Rajasthan),https://www.redbus.in/bus-tickets/kishangarh-to-jaipur
+141,UPSRTC,Delhi to Bareilly,https://www.redbus.in/bus-tickets/delhi-to-bareilly
+142,UPSRTC,Bareilly to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi
+143,UPSRTC,Aligarh (uttar pradesh) to Delhi,https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-delhi
+144,UPSRTC,Delhi to Aligarh (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-aligarh-uttar-pradesh
+145,UPSRTC,Lucknow to Allahabad,https://www.redbus.in/bus-tickets/lucknow-to-allahabad
+146,UPSRTC,Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi
+147,UPSRTC,Delhi to Farrukhabad (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-farrukhabad-up
+148,UPSRTC,Farrukhabad (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/farrukhabad-up-to-delhi
+149,UPSRTC,Badaun to Delhi,https://www.redbus.in/bus-tickets/badaun-to-delhi
+150,UPSRTC,Allahabad to Lucknow,https://www.redbus.in/bus-tickets/allahabad-to-lucknow
+151,UPSRTC,Delhi to Bareilly,https://www.redbus.in/bus-tickets/delhi-to-bareilly
+152,UPSRTC,Bareilly to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi
+153,UPSRTC,Aligarh (uttar pradesh) to Delhi,https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-delhi
+154,UPSRTC,Delhi to Aligarh (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-aligarh-uttar-pradesh
+155,UPSRTC,Lucknow to Allahabad,https://www.redbus.in/bus-tickets/lucknow-to-allahabad
+156,UPSRTC,Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi
+157,UPSRTC,Delhi to Farrukhabad (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-farrukhabad-up
+158,UPSRTC,Farrukhabad (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/farrukhabad-up-to-delhi
+159,UPSRTC,Badaun to Delhi,https://www.redbus.in/bus-tickets/badaun-to-delhi
+160,UPSRTC,Allahabad to Lucknow,https://www.redbus.in/bus-tickets/allahabad-to-lucknow
+161,APSRTC,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada
+162,APSRTC,Vijayawada to Hyderabad,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad
+163,APSRTC,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole
+164,APSRTC,Kakinada to Visakhapatnam,https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam
+166,APSRTC,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa
+167,APSRTC,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad
+168,APSRTC,Kadapa to Bangalore,https://www.redbus.in/bus-tickets/kadapa-to-bangalore
+169,APSRTC,Chittoor (Andhra Pradesh) to Bangalore,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore
+170,APSRTC,Visakhapatnam to Kakinada,https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada
+171,APSRTC,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada
+172,APSRTC,Vijayawada to Hyderabad,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad
+173,APSRTC,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole
+174,APSRTC,Kakinada to Visakhapatnam,https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam
+175,APSRTC,Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi
+176,APSRTC,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa
+177,APSRTC,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad
+178,APSRTC,Kadapa to Bangalore,https://www.redbus.in/bus-tickets/kadapa-to-bangalore
+179,APSRTC,Chittoor (Andhra Pradesh) to Bangalore,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore
+180,APSRTC,Visakhapatnam to Kakinada,https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada
+181,KSRTC (Kerala),Bangalore to Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode
+182,KSRTC (Kerala),Kozhikode to Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore
+183,KSRTC (Kerala),Kozhikode to Ernakulam,https://www.redbus.in/bus-tickets/kozhikode-to-ernakulam
+184,KSRTC (Kerala),Ernakulam to Kozhikode,https://www.redbus.in/bus-tickets/ernakulam-to-kozhikode
+185,KSRTC (Kerala),Bangalore to Kannur,https://www.redbus.in/bus-tickets/bangalore-to-kannur
+186,KSRTC (Kerala),Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore
+187,KSRTC (Kerala),Kannur to Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore
+188,KSRTC (Kerala),Kozhikode to Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram
+189,KSRTC (Kerala),Mysore to Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode
+190,KSRTC (Kerala),Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta
+191,KSRTC (Kerala),Bangalore to Kozhikode,https://www.redbus.in/bus-tickets/bangalore-to-kozhikode
+192,KSRTC (Kerala),Kozhikode to Bangalore,https://www.redbus.in/bus-tickets/kozhikode-to-bangalore
+196,KSRTC (Kerala),Kozhikode to Mysore,https://www.redbus.in/bus-tickets/kozhikode-to-mysore
+197,KSRTC (Kerala),Kannur to Bangalore,https://www.redbus.in/bus-tickets/kannur-to-bangalore
+198,KSRTC (Kerala),Kozhikode to Thiruvananthapuram,https://www.redbus.in/bus-tickets/kozhikode-to-thiruvananthapuram
+199,KSRTC (Kerala),Mysore to Kozhikode,https://www.redbus.in/bus-tickets/mysore-to-kozhikode
+200,KSRTC (Kerala),Bangalore to Kalpetta (kerala),https://www.redbus.in/bus-tickets/bangalore-to-kalpetta
+201,Kadamba Transport Corporation Limited (KTCL),Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa
+202,Kadamba Transport Corporation Limited (KTCL),Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune
+203,Kadamba Transport Corporation Limited (KTCL),Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa
+204,Kadamba Transport Corporation Limited (KTCL),Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa
+205,Kadamba Transport Corporation Limited (KTCL),Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore
+206,Kadamba Transport Corporation Limited (KTCL),Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai
+207,Kadamba Transport Corporation Limited (KTCL),Pandharpur to Goa,https://www.redbus.in/bus-tickets/pandharpur-to-goa
+208,Kadamba Transport Corporation Limited (KTCL),Goa to Pandharpur,https://www.redbus.in/bus-tickets/goa-to-pandharpur
+209,Kadamba Transport Corporation Limited (KTCL),Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa
+210,Kadamba Transport Corporation Limited (KTCL),Calangute (goa) to Goa Airport,https://www.redbus.in/bus-tickets/calangute-goa-to-goa-airport
+211,Kadamba Transport Corporation Limited (KTCL),Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa
+212,Kadamba Transport Corporation Limited (KTCL),Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune
+213,Kadamba Transport Corporation Limited (KTCL),Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa
+214,Kadamba Transport Corporation Limited (KTCL),Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa
+215,Kadamba Transport Corporation Limited (KTCL),Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore
+216,Kadamba Transport Corporation Limited (KTCL),Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai
+217,Kadamba Transport Corporation Limited (KTCL),Pandharpur to Goa,https://www.redbus.in/bus-tickets/pandharpur-to-goa
+218,Kadamba Transport Corporation Limited (KTCL),Goa to Pandharpur,https://www.redbus.in/bus-tickets/goa-to-pandharpur
+219,Kadamba Transport Corporation Limited (KTCL),Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa
+220,Kadamba Transport Corporation Limited (KTCL),Calangute (goa) to Goa Airport,https://www.redbus.in/bus-tickets/calangute-goa-to-goa-airport
